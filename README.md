@@ -1,8 +1,4 @@
-# Sure! Here is a clean and professional **overall project summary** you can use in your GitHub README:
-
----
-
-## 🌦️ Weather Forecasting Using LSTM (Machine Learning)
+# 🌦️ Weather Forecasting Using LSTM (Machine Learning)
 
 This project focuses on predicting future weather conditions—specifically **temperature values**—using a **Long Short-Term Memory (LSTM)** deep learning model. Weather forecasting plays an essential role in agriculture, transportation, disaster management, and daily decision-making. Traditional forecasting methods can struggle with complex, non-linear climate patterns, whereas LSTMs are excellent at understanding time-series data like weather trends.
 
